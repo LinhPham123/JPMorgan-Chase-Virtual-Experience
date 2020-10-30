@@ -1,5 +1,5 @@
 # JPMorgan Chase Software Engineering Virtual Experience
-This repository contains my submitted patch files for the JPMorgan Chase & Co. Software Engineering Virtual Experience.
+This repository contains my submitted patch files and completion certificate for JPMorgan Chase & Co. Software Engineering Virtual Experience.
 
 ## Introduction
 For this project, a trader from the equities team (publicly listed company stocks) has requested functionality be added to their dashboard to allow them to input specific information so they can monitor a new trading strategy.
